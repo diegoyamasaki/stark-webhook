@@ -1,0 +1,10 @@
+{
+    "stark_project_id":"4740157227925504",
+    "private_key":"-----BEGIN EC PARAMETERS-----\nBgUrgQQACg==\n-----END EC PARAMETERS-----\n-----BEGIN EC PRIVATE KEY-----\nMHQCAQEEIDGXLChx9oiVlngO/ysyrb79oJy32Ux6aHNN+lcpmDxmoAcGBSuBBAAK\noUQDQgAEmrlKSnU70LNi3IVBkgTyBwh6J4+gdwFlACK5EeoCt3q7Adjmp09rVd6H\nRsLkkcuSYQzwkZ30e/gE9YRrGp0klA==\n-----END EC PRIVATE KEY-----",
+    "transfer_tax_id":"20.018.183/0001-80",
+    "transfer_account_name":"Stark Bank S.A",
+    "transfer_bank_code":"20018183",
+    "transfer_branch_code":"0001",
+    "transfer_account_number":"6341320293482496",
+    "transfer_account_type":"payment"
+}
